@@ -27,3 +27,10 @@ Log 4:
 -Finished up most of the PCB
 <img width="1538" height="659" alt="image" src="https://github.com/user-attachments/assets/9f88fc3c-2bae-4b7f-b498-c0f2fd9ce8db" />
 <img width="872" height="431" alt="image" src="https://github.com/user-attachments/assets/5fd8dd6d-9c03-4fef-b336-4f9b99338d39" />
+
+Log 4:
+45 Minuites
+Finished up the PCB with 0 DRC Errors 
+<img width="1552" height="1045" alt="image" src="https://github.com/user-attachments/assets/61830f1f-31cd-4b31-8766-cddf2dc8d339" />
+
+
