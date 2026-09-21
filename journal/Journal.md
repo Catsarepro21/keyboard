@@ -20,3 +20,10 @@ Log 3:
 2 Hours 25 Minutes
 Completly reworked schematic, added RGB(Cuz why not), and 2 rotary encoders. Passes ERC no errors or warnings.
 <img width="1231" height="425" alt="image" src="https://github.com/user-attachments/assets/b634d765-592f-4410-9213-463487910715" />
+Log 4:
+3 Hours and 10 Minutes(Im bad at layout)
+-Finished Up Schematic
+-Began working on PCB and laid out with 19.5mm spacing(u's)
+-Finished up most of the PCB
+<img width="1538" height="659" alt="image" src="https://github.com/user-attachments/assets/9f88fc3c-2bae-4b7f-b498-c0f2fd9ce8db" />
+<img width="872" height="431" alt="image" src="https://github.com/user-attachments/assets/5fd8dd6d-9c03-4fef-b336-4f9b99338d39" />
