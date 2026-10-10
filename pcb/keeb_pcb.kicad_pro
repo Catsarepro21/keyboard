@@ -63,7 +63,7 @@
           "min_clearance": 0.3,
           "min_island_area": 10.0,
           "min_thickness": 0.2,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -90,7 +90,7 @@
         "footprint": "error",
         "footprint_filters_mismatch": "ignore",
         "footprint_symbol_field_mismatch": "warning",
-        "footprint_symbol_mismatch": "warning",
+        "footprint_symbol_mismatch": "ignore",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_to_hole": "warning",
@@ -101,7 +101,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../Downloads/keeb_pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

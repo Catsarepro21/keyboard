@@ -27,3 +27,8 @@ Log 4:
 -Finished up most of the PCB
 <img width="1538" height="659" alt="image" src="https://github.com/user-attachments/assets/9f88fc3c-2bae-4b7f-b498-c0f2fd9ce8db" />
 <img width="872" height="431" alt="image" src="https://github.com/user-attachments/assets/5fd8dd6d-9c03-4fef-b336-4f9b99338d39" />
+
+Log 5:
+1 Hour
+Finished adding 3D models for all parts of the PCB and checked render, and worked a lot on the case in Onshape.
+![KiCad Render](image-2.png)![Onshape Case](image-1.png)
