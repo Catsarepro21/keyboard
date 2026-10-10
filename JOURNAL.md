@@ -39,13 +39,13 @@ Finished up schematic. Began working on PCB layout with 19.5mm spacing (u's) and
 
 # March 24: Completed PCB routing and DRC checks
 
-Finished up the PCB with 0 DRC errors.
+Finished up the PCB with 0 DRC errors and double checked the schematic and wiring, as well as the render.
 
 <img width="1552" height="1045" alt="image" src="https://github.com/user-attachments/assets/61830f1f-31cd-4b31-8766-cddf2dc8d339" />
 
 **Total time spent: 45 minutes**
 
-# March 25: 3D render checks and Onshape case modeling
+#October 10th : 3D render checks and Onshape case modeling
 
 Finished adding 3D models for all parts of the PCB and checked the render. Also worked a lot on the case design in Onshape.
 
