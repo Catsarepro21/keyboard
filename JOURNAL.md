@@ -45,7 +45,7 @@ Finished up the PCB with 0 DRC errors and double checked the schematic and wirin
 
 **Total time spent: 45 minutes**
 
-#October 10th : 3D render checks and Onshape case modeling
+# October 10th : 3D render checks and Onshape case modeling
 
 Finished adding 3D models for all parts of the PCB and checked the render. Also worked a lot on the case design in Onshape.
 
