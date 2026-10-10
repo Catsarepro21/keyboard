@@ -49,7 +49,7 @@ Finished up the PCB with 0 DRC errors.
 
 Finished adding 3D models for all parts of the PCB and checked the render. Also worked a lot on the case design in Onshape.
 
-![KiCad Render](image-2.png)
-![Onshape Case](image-1.png)
+<img width="1329" height="464" alt="image" src="https://github.com/user-attachments/assets/41511047-047b-4060-b3e1-aa276470146b" />
+<img width="1234" height="749" alt="image" src="https://github.com/user-attachments/assets/4d77465a-9c75-4428-88eb-dc0df5398a55" />
 
 **Total time spent: 1 hour**
