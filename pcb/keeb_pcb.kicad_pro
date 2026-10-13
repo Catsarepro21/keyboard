@@ -524,9 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "specctra_dsn": "",
-      "step": "../../Downloads/keeb_pcb.step",
+      "step": "../../Downloads/KEEB-latest-live-2026-10-11.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -611,12 +611,36 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -661,7 +685,7 @@
         "uuid": "2052aeb2-4629-48e1-bb6c-b3448cf4ddf9"
       }
     ],
-    "used_designators": "A1,SW1-64,H1-6,S1-7,C1-64,D1-128,DS1,R1-4,U1-3,J1-2,#PWR3-4",
+    "used_designators": "A1,H1-6,SW1-64,C1-64,S1-7,D1-128,DS1,R1-4,#FLG1-2,U1-3,J1-3,#PWR3-4,#PWR18,#PWR22,#PWR36,#PWR57,#PWR76,#PWR87",
     "variants": []
   },
   "sheets": [

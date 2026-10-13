@@ -36,6 +36,8 @@ Log 5:
 1 Hour
 Finished adding 3D models for all parts of the PCB and checked render, and worked a lot on the case in Onshape.
 ![KiCad Render](image-2.png)![Onshape Case](image-1.png)
-
+Log 6:
+4.5 Hours
+Did a lot today, I relized that the keyboard would be a bit better with bluetooth, so I changed out the pi pico for a Pi Pico w, which has bluetooth! Then I remembered I also needed to add a battery for power, then a battery charge controller to easily recharge, then reroute all the wires outside of the no antenna zone, and remake the case to fit the battery and charger(I raised the OLED part a bit which I think still looks pretty good and made that part a lot easier). I did all that, but theres one downside I think is fine which is that RGB is only wiried to work when plugged in, which is fine,![alt text](image.png)![alt text](image-3.png)
 
 
