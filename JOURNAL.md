@@ -56,7 +56,7 @@ Finished adding 3D models for all parts of the PCB and checked the render. Also 
 
 # October 12th : Added bluetooth and did a lot
 
-Did a lot today, I relized that the keyboard would be a bit better with bluetooth, so I changed out the pi pico for a Pi Pico w, which has bluetooth! Then I remembered I also needed to add a battery for power, then a battery charge controller to easily recharge, then reroute all the wires outside of the no antenna zone, and remake the case to fit the battery and charger(I raised the OLED part a bit which I think still looks pretty good and made that part a lot easier). I did all that, but theres one downside I think is fine which is that RGB is only wiried to work when plugged in, which is fine,![alt text](image.png)![alt text](image-3.png)
+Did a lot today, I relized that the keyboard would be a bit better with bluetooth, so I changed out the pi pico for a Pi Pico w, which has bluetooth! Then I remembered I also needed to add a battery for power, then a battery charge controller to easily recharge, then reroute all the wires outside of the no antenna zone, and remake the case to fit the battery and charger(I raised the OLED part a bit which I think still looks pretty good and made that part a lot easier). I did all that, but theres one downside I think is fine which is that RGB is only wiried to work when plugged in, which is fine,![alt text](journal/image.png)![alt text](journal/image-3.png)
 
 **Total time spent: 4.5 hours**
 
