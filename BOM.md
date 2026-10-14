@@ -2,7 +2,7 @@
 
 80-key wireless keyboard with Pico W, OLED, encoder and USB-only RGB. Prices in USD, estimated on 13 October 2026. Purchase quantities include supplier packs and spare parts.
 
-**Parts and PCB: $118.95. Including previously quoted stabilizer shipping: $125.84.** Other shipping, tax and case printing are unquoted. AliExpress prices are provisional reference prices; welcome discounts are not counted.
+**Parts and PCB: $110.53. Including previously quoted stabilizer shipping: $117.42.** Other shipping, tax and case printing are unquoted. AliExpress prices are provisional reference prices; welcome discounts are not counted.
 
 | Part | Specification | Needed | Buy | Line cost | Link |
 |---|---|---:|---:|---:|---|
@@ -20,7 +20,7 @@
 | RGB data translator | TI SN74LVC1T45DBVR | 1 | 5 | $0.42 | [Buy](https://www.lcsc.com/product-detail/C7843.html) |
 | RGB current limiter | TI TPS2553DBVR | 1 | 1 | $0.54 | [Buy](https://www.lcsc.com/product-detail/C55266.html) |
 | Control/status expander | TI PCA9536DR | 1 | 1 | $1.56 | [Buy](https://www.digikey.com/en/products/detail/texas-instruments/PCA9536DR/1573050) |
-| Charger load switch | TI TPS22918DBVR | 1 | 5 | $2.12 | [Buy](https://www.lcsc.com/product-detail/C131941.html) |
+| Charger load switch | TI TPS22918DBVR | 1 | 1 | $0.59 | [Buy](https://www.digikey.com/en/products/detail/texas-instruments/TPS22918DBVR/5994601) |
 | USB detection MOSFET | onsemi BSS138LT1G | 1 | 10 | $0.44 | [Buy](https://www.lcsc.com/product-detail/C82045.html) |
 | Local bypass capacitors | Samsung CL10B104KB8NNNC (100nF, 0603) | 82 | 100 | $0.82 | [Buy](https://www.lcsc.com/product-detail/C1591.html) |
 | USB switch input capacitors | Samsung CL21B105KAFNNNE (1uF, 0805) | 2 | 10 | $0.41 | [Buy](https://www.lcsc.com/product-detail/C116352.html) |
@@ -39,16 +39,16 @@
 | Encoder knob | Adafruit 5093 | 1 | 1 | $0.75 | [Buy](https://www.adafruit.com/product/5093) |
 | USB data cable | Cvilux DH-20M50055 | 1 | 1 | $1.58 | [Buy](https://www.digikey.com/en/products/detail/cvilux-usa/DH-20M50055/13175849) |
 | Keycap set | XDA 120-key white/gray, English, plastic bag | 80 | 1 | $13.81 | [Buy](https://www.aliexpress.us/item/3256805881926304.html) |
-| Case inserts | M3 × D5.0 × L4.0, 100 pack | 10 | 100 | $6.31 | [Buy](https://www.aliexpress.us/item/2255800046543591.html) |
+| Case inserts | XHHD SZTB1150 / C51939019, M3 x 4.5 x 5 mm | 10 | 20 | $0.47 | [Buy](https://www.lcsc.com/product-detail/C51939019.html) |
 | Case screws | M3 50pcs / 8mm ISO7380 button-head | 10 | 50 | $1.75 | [Buy](https://www.aliexpress.us/item/3256801950414714.html) |
 | Adhesive feet | Adafruit 550, pack of four approx 8 × 4 mm bumpers | 4 | 1 | $0.95 | [Buy](https://www.adafruit.com/product/550) |
 | Case print | Printed bottom, top and removable battery cover | 3 | 1 | Unquoted | [Buy](https://printlegion.hackclub.com/) |
 | Controller mounting pins | BOOMELE 2.54-1*40P / C2337 | 1 | 5 | $0.80 | [Buy](https://www.lcsc.com/product-detail/C2337.html) |
 | Battery retention/insulation | JSZ-007 polyimide tape, 30 mm x 33 m x 0.05 mm | 1 | 1 | $2.34 | [Buy](https://www.lcsc.com/product-detail/C6798411.html) |
-| PCB | 359.95 x 124.25 mm; 2 layers; 1.6 mm FR4; HASL | 1 | 5 | $26.65 | [Buy](https://jlcpcb.com/quote) |
+| PCB | 359.95 x 124.25 mm; 2 layers; 1.6 mm FR4; green; HASL; no optional paid production-file confirmation | 1 | 5 | $25.60 | [Buy](https://jlcpcb.com/quote) |
 | Stabilizer shipping | Previously quoted US delivery | 1 | 1 | $6.89 | [Buy](https://omnitype.com/products/gdk-stabilizers) |
 | Other shipping | Supplier delivery and import charges | — | — | Unquoted | — |
 | Sales tax | Checkout amount | — | — | Unquoted | — |
 | Tools and consumables | Soldering tools, solder and flux already owned | 1 | 0 | $0.00 | — |
 
-The stabilizer kit includes its ten mounting screws. The OLED cable is included with the module. The printed battery cover is included in the three case parts. Soldering tools, solder and flux are already owned. Printing Legion support is subject to acceptance. Confirm the 120-key keycap set covers the layout and verify battery connector polarity before ordering.
+The stabilizer kit includes its ten mounting screws. The OLED cable is included. Soldering tools, solder and flux are already owned. The insert listing is M3 x 4.5 x 5 mm; the case has 4.4 mm pilot holes and 4.5 mm deep pockets. Confirm the insert dimensions and test one printed pocket before fitting all ten. PCB estimate excludes the optional $1.05 production-file confirmation fee. Printing Legion support is subject to acceptance. Confirm keycap sizes and battery connector polarity before ordering.
