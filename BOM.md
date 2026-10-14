@@ -2,7 +2,7 @@
 
 80-key wireless keyboard with Pico W, OLED, encoder and USB-only RGB. Prices in USD, estimated on 13 October 2026. Purchase quantities include supplier packs and spare parts.
 
-**Parts and PCB: $110.53. Including previously quoted stabilizer shipping: $117.42.** Other shipping, tax and case printing are unquoted. AliExpress prices are provisional reference prices; welcome discounts are not counted.
+**Parts and PCB: $106.13.** White keycaps and Fynmi stabilizers together showed free shipping in the signed-in AliExpress cart. Other shipping, tax and case printing are unquoted. These two prices were checked live; other prices remain estimates. Extra coupons and coins are not counted.
 
 | Part | Specification | Needed | Buy | Line cost | Link |
 |---|---|---:|---:|---:|---|
@@ -33,12 +33,12 @@
 | 10 kohm status pull-ups | Yageo RC0603FR-0710KL (10k, 0603) | 2 | 100 | $0.34 | [Buy](https://www.lcsc.com/product-detail/C98220.html) |
 | 160 kohm RGB current limit | Yageo RC0603FR-07160KL (160k, 0603) | 1 | 100 | $0.22 | [Buy](https://www.lcsc.com/product-detail/C137793.html) |
 | OLED board-side connection | Direct-solder included Waveshare cable | 1 | 1 | $0.00 | [Buy](https://www.waveshare.com/product/ai/0.91inch-oled-module.htm) |
-| Stabilizer kit | GDK kit: 4 x 2u + 1 x 6.25u | 5 | 1 | $4.90 | [Buy](https://omnitype.com/products/gdk-stabilizers) |
+| Stabilizer kit | Fynmi black PCB screw-in kit, 4 x 2u + 1 x 6.25u; mounting fit pending | 5 | 1 | $4.09 | [Buy](https://www.aliexpress.us/item/3256810601892072.html) |
 | Protected LiPo battery | Adafruit 1578, 500 mAh | 1 | 1 | $7.95 | [Buy](https://www.adafruit.com/product/1578) |
 | OLED module | Waveshare 14657, SSD1306 128 x 32 | 1 | 1 | $6.99 | [Buy](https://www.waveshare.com/product/ai/0.91inch-oled-module.htm) |
 | Encoder knob | Adafruit 5093 | 1 | 1 | $0.75 | [Buy](https://www.adafruit.com/product/5093) |
 | USB data cable | Cvilux DH-20M50055 | 1 | 1 | $1.58 | [Buy](https://www.digikey.com/en/products/detail/cvilux-usa/DH-20M50055/13175849) |
-| Keycap set | XDA 120-key white/gray, English, plastic bag | 80 | 1 | $13.81 | [Buy](https://www.aliexpress.us/item/3256805881926304.html) |
+| Keycap set | 129-key white pudding PBT, OEM profile, MX stems; exact custom-layout fit pending | 80 | 1 | $10.22 | [Buy](https://www.aliexpress.us/item/3256809062215921.html) |
 | Case inserts | XHHD SZTB1150 / C51939019, M3 x 4.5 x 5 mm | 10 | 20 | $0.47 | [Buy](https://www.lcsc.com/product-detail/C51939019.html) |
 | Case screws | M3 50pcs / 8mm ISO7380 button-head | 10 | 50 | $1.75 | [Buy](https://www.aliexpress.us/item/3256801950414714.html) |
 | Adhesive feet | Adafruit 550, pack of four approx 8 × 4 mm bumpers | 4 | 1 | $0.95 | [Buy](https://www.adafruit.com/product/550) |
@@ -46,9 +46,11 @@
 | Controller mounting pins | BOOMELE 2.54-1*40P / C2337 | 1 | 5 | $0.80 | [Buy](https://www.lcsc.com/product-detail/C2337.html) |
 | Battery retention/insulation | JSZ-007 polyimide tape, 30 mm x 33 m x 0.05 mm | 1 | 1 | $2.34 | [Buy](https://www.lcsc.com/product-detail/C6798411.html) |
 | PCB | 359.95 x 124.25 mm; 2 layers; 1.6 mm FR4; green; HASL; no optional paid production-file confirmation | 1 | 5 | $25.60 | [Buy](https://jlcpcb.com/quote) |
-| Stabilizer shipping | Previously quoted US delivery | 1 | 1 | $6.89 | [Buy](https://omnitype.com/products/gdk-stabilizers) |
+| AliExpress shipping | White keycaps and Fynmi stabilizers together; cart showed free shipping on 13 October 2026 | 1 | 1 | $0.00 | [Buy](https://www.aliexpress.us/p/shoppingcart/index.html) |
 | Other shipping | Supplier delivery and import charges | — | — | Unquoted | — |
 | Sales tax | Checkout amount | — | — | Unquoted | — |
 | Tools and consumables | Soldering tools, solder and flux already owned | 1 | 0 | $0.00 | — |
 
-The stabilizer kit includes its ten mounting screws. The OLED cable is included. Soldering tools, solder and flux are already owned. The insert listing is M3 x 4.5 x 5 mm; the case has 4.4 mm pilot holes and 4.5 mm deep pockets. Confirm the insert dimensions and test one printed pocket before fitting all ten. PCB estimate excludes the optional $1.05 production-file confirmation fee. Printing Legion support is subject to acceptance. Confirm keycap sizes and battery connector polarity before ordering.
+The stabilizer listing shows mounting screws and washers; verify mounting dimensions against the PCB before ordering. Confirm the keycap sizes and case travel for the custom layout. The Waveshare OLED cable is included. Soldering tools, solder and flux are already owned. The insert listing is M3 x 4.5 x 5 mm; the case has 4.4 mm pilot holes and 4.5 mm deep pockets. Test one printed pocket before fitting all ten. PCB estimate excludes the optional $1.05 production-file confirmation fee. Printing Legion support is subject to acceptance. Confirm battery connector polarity before connection.
+
+Lower-cost OLED alternative: [HNX white 0.91-inch SSD1306, 1 pc](https://www.aliexpress.us/item/3256808732385444.html), $2.69. Seller specifies 3.3 V / 5 V, GND-VCC-SCL-SDA and a 38 x 12 mm board. Case support height/alignment and four hookup wires must be checked before substitution; it is not included in the total above. It would reduce merchandise by $4.30, before any wiring cost.
