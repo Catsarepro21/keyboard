@@ -42,7 +42,7 @@
 | Case inserts | XHHD SZTB1150 / C51939019, M3 x 4.5 x 5 mm | 10 | 20 | $0.47 | [Buy](https://www.lcsc.com/product-detail/C51939019.html) |
 | Case screws | M3 50pcs / 8mm ISO7380 button-head | 10 | 50 | $1.75 | [Buy](https://www.aliexpress.us/item/3256801950414714.html) |
 | Adhesive feet | Adafruit 550, pack of four approx 8 × 4 mm bumpers | 4 | 1 | $0.95 | [Buy](https://www.adafruit.com/product/550) |
-| Case print | Printed bottom, top and removable battery cover | 3 | 1 | Unquoted | [Buy](https://printlegion.hackclub.com/) |
+| Case print | Printed bottom, top with integrated MX switch plate, removable battery cover | 3 | 1 | Unquoted | [Buy](https://printlegion.hackclub.com/) |
 | Controller mounting pins | BOOMELE 2.54-1*40P / C2337 | 1 | 5 | $0.80 | [Buy](https://www.lcsc.com/product-detail/C2337.html) |
 | Battery retention/insulation | JSZ-007 polyimide tape, 30 mm x 33 m x 0.05 mm | 1 | 1 | $2.34 | [Buy](https://www.lcsc.com/product-detail/C6798411.html) |
 | PCB | 359.95 x 124.25 mm; 2 layers; 1.6 mm FR4; green; HASL; no optional paid production-file confirmation | 1 | 5 | $25.60 | [Buy](https://jlcpcb.com/quote) |
@@ -53,6 +53,6 @@
 
 Assembly: mount the Waveshare OLED with its unused PH connector toward the encoder; trim the included cable plug and solder by signal labels (J1: GND, 3V3, SCL, SDA). Secure it on the corner ledges with thin insulating tape. Mount Pico W using bare pins without the plastic header spacer. Confirm battery polarity before connection.
 
-Fit limits: keycap sizes are covered and assumed travel envelopes clear the case; seller tolerances and exact stabilizer mounting dimensions remain unpublished. OLED component heights and USB plug width/height were checked with assumed envelopes because the suppliers omit these dimensions. Test one 4.4 mm insert pocket before installing all ten M3 x 4.5 x 5 mm inserts. The largest case part is 370.15 x 145.65 mm; confirm printing-service capacity and cost. Printing Legion acceptance, other shipping and tax remain unquoted.
+Fit limits: keycap sizes are covered and assumed travel envelopes clear the case; seller tolerances and exact stabilizer mounting dimensions remain unpublished. OLED component heights and USB plug width/height were checked with assumed envelopes because the suppliers omit these dimensions. Print the supplied 14.05 mm MX switch-fit coupon before the full cover. Test one 4.4 mm insert pocket before installing all ten M3 x 4.5 x 5 mm inserts. The largest case part is 370.15 x 145.65 mm; confirm printing-service capacity and cost. Printing Legion acceptance, other shipping and tax remain unquoted.
 
 Lower-cost OLED alternative: [HNX white 0.91-inch SSD1306, 1 pc](https://www.aliexpress.us/item/3256808732385444.html), $2.69. Seller specifies 3.3 V / 5 V, GND-VCC-SCL-SDA and a 38 x 12 mm board. Case support height/alignment and four hookup wires must be checked before substitution; it is not included in the total above. It would reduce merchandise by $4.30, before any wiring cost.
