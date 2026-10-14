@@ -1,9 +1,0 @@
-pcb/** -text
-cad/** -text
-fabrication/** -text
-verification/** -text
-BOM.csv -text
-BOM.md -text
-HARDWARE.md -text
-*.step binary
-*.zip binary

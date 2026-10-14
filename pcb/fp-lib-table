@@ -1,4 +1,0 @@
-(fp_lib_table (version 7)
- (lib (name "KeyboardVerified") (type "KiCad") (uri "${KIPRJMOD}/KeyboardVerified.pretty") (options "") (descr "Verified project footprints; preserves board geometry"))
- (lib (name "KeyBoardLibrary") (type "KiCad") (uri "${KIPRJMOD}/KeyBoardLibrary.pretty") (options "") (descr "Original keyboard library"))
-)
