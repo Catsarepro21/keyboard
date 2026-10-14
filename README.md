@@ -13,3 +13,9 @@
 The case STEP contains the bottom, top with integrated switch plate, and battery cover. Print these three parts.
 
 Firmware compiles, but the assembled keyboard still needs physical testing.
+
+If Onshape shows 403 when opened from GitHub, copy and paste this address into your browser:
+
+```text
+https://cad.onshape.com/documents/a273834a75c8cf83eaf3eccf/w/175ac2f63e3c24ffd6632dd1/e/d788e341cf0c23216b358283
+```
