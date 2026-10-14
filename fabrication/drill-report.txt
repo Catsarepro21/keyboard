@@ -1,0 +1,30 @@
+Drill report for keeb_pcb.kicad_pcb
+Created on 2026-10-13T21:11:52
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'keeb_pcb-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (418 holes))
+    T2  0.750mm  0.0295"  (2 holes))
+    T3  0.800mm  0.0315"  (165 holes))
+    T4  1.000mm  0.0394"  (49 holes))
+    T5  1.500mm  0.0591"  (2 holes)  (with 2 slots)
+    T6  1.524mm  0.0600"  (160 holes))
+
+    Total plated holes count 796
+
+
+Drill file 'keeb_pcb-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.750mm  0.0689"  (160 holes))
+    T2  3.048mm  0.1200"  (10 holes))
+    T3  3.988mm  0.1570"  (90 holes))
+
+    Total unplated holes count 260
