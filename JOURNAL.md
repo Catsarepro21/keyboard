@@ -60,3 +60,7 @@ Did a lot today, I relized that the keyboard would be a bit better with bluetoot
 
 **Total time spent: 4.5 hours**
 
+# October 14th : Finalized PCB, finalized CAD, and did code.
+
+Went through and double checked all the PCB connections, checked the BOM, and checked the CAD to make sure it works, then went and made the code using RMKit.![alt text](journal/image.png)
+**Total time spent: 1.5 hours**
