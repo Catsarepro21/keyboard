@@ -1,12 +1,3 @@
-(No image so i excluded it)
-March 20: Initial concept and planning
-
-Started initial plan:
-- 60% Keyboard
-- Customizable display
-- Rotary encoder for volume
-
-**Total time spent: 10 minutes**
 
 # March 21: Schematic draft and initial wiring
 
