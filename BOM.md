@@ -1,0 +1,54 @@
+# Keyboard BOM
+
+80-key wireless keyboard with Pico W, OLED, encoder and USB-only RGB. Prices in USD, estimated on 13 October 2026. Purchase quantities include supplier packs and spare parts.
+
+**Parts and PCB: $118.95. Including previously quoted stabilizer shipping: $125.84.** Other shipping, tax and case printing are unquoted. AliExpress prices are provisional reference prices; welcome discounts are not counted.
+
+| Part | Specification | Needed | Buy | Line cost | Link |
+|---|---|---:|---:|---:|---|
+| Wireless controller | Raspberry Pi SC0918 Pico W | 1 | 1 | $6.00 | [Buy](https://www.adafruit.com/product/5526) |
+| MX key switches | Gateron KS-3Y10B050NW-X1 | 80 | 80 | $16.00 | [Buy](https://mechanicalkeyboards.com/products/gateron-milky-yellow-50g-linear) |
+| Matrix diodes | XCH 1N4148 / C7437620 | 81 | 100 | $0.91 | [Buy](https://www.lcsc.com/product-detail/C7437620.html) |
+| RGB LEDs | OPSCO SK6812MINI-E / C5149201 | 79 | 85 | $5.53 | [Buy](https://www.lcsc.com/product-detail/C5149201.html) |
+| Rotary encoder with push | Alps EC11E18244AU | 1 | 1 | $2.22 | [Buy](https://www.lcsc.com/product-detail/C202365.html) |
+| Battery charger | MCP73831T-2ACI/OT | 1 | 1 | $0.78 | [Buy](https://www.lcsc.com/product-detail/C424093.html) |
+| Battery isolation diode | Vishay SS14-E3/61T | 1 | 3 | $0.35 | [Buy](https://www.lcsc.com/product-detail/C47460.html) |
+| Power slide switch | Wurth 450301014042, 300 mA / 24 V DC | 1 | 1 | $2.15 | [Buy](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/450301014042/5209104) |
+| Battery connector | JST B2B-PH-K-S(LF)(SN) | 1 | 20 | $0.71 | [Buy](https://www.lcsc.com/product-detail/C131337.html) |
+| Charge-current resistor | Yageo RC0805FR-0710KL (10k, 0805) | 1 | 100 | $0.58 | [Buy](https://www.lcsc.com/product-detail/C84376.html) |
+| Charger capacitors | TDK C2012X5R1V106MT000E / C415295 (10uF, 0805) | 2 | 2 | $0.52 | [Buy](https://www.lcsc.com/product-detail/C415295.html) |
+| RGB data translator | TI SN74LVC1T45DBVR | 1 | 5 | $0.42 | [Buy](https://www.lcsc.com/product-detail/C7843.html) |
+| RGB current limiter | TI TPS2553DBVR | 1 | 1 | $0.54 | [Buy](https://www.lcsc.com/product-detail/C55266.html) |
+| Control/status expander | TI PCA9536DR | 1 | 1 | $1.56 | [Buy](https://www.digikey.com/en/products/detail/texas-instruments/PCA9536DR/1573050) |
+| Charger load switch | TI TPS22918DBVR | 1 | 5 | $2.12 | [Buy](https://www.lcsc.com/product-detail/C131941.html) |
+| USB detection MOSFET | onsemi BSS138LT1G | 1 | 10 | $0.44 | [Buy](https://www.lcsc.com/product-detail/C82045.html) |
+| Local bypass capacitors | Samsung CL10B104KB8NNNC (100nF, 0603) | 82 | 100 | $0.82 | [Buy](https://www.lcsc.com/product-detail/C1591.html) |
+| USB switch input capacitors | Samsung CL21B105KAFNNNE (1uF, 0805) | 2 | 10 | $0.41 | [Buy](https://www.lcsc.com/product-detail/C116352.html) |
+| RGB bulk capacitor | Samsung CL31A226KAHNNNE (22uF, 1206) | 1 | 1 | $0.48 | [Buy](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31A226KAHNNNE/3888705) |
+| Charger rise-time capacitor | Murata GRM1885C1H103JA01D (10nF, 0603) | 1 | 1 | $0.14 | [Buy](https://www.digikey.com/en/products/detail/murata-electronics/GRM1885C1H103JA01D/4934772) |
+| 330 ohm LED data series | Yageo RC0603FR-07330RL (330, 0603) | 1 | 10 | $0.25 | [Buy](https://www.digikey.com/en/products/detail/yageo/RC0603FR-07330RL/727162) |
+| 100 kohm RGB pull-downs | Yageo RC0603FR-07100KL (100k, 0603) | 2 | 10 | $0.25 | [Buy](https://www.digikey.com/en/products/detail/yageo/RC0603FR-07100KL/729836) |
+| 2.2 kohm enables and VBUS bleed | Yageo RC0603FR-072K2L (2.2k, 0603) | 3 | 100 | $0.18 | [Buy](https://www.lcsc.com/product-detail/C114662.html) |
+| 4.7 kohm I2C pull-ups to 3.3 V | Yageo RC0603FR-074K7L (4.7k, 0603) | 2 | 10 | $0.25 | [Buy](https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212) |
+| 10 kohm status pull-ups | Yageo RC0603FR-0710KL (10k, 0603) | 2 | 100 | $0.34 | [Buy](https://www.lcsc.com/product-detail/C98220.html) |
+| 160 kohm RGB current limit | Yageo RC0603FR-07160KL (160k, 0603) | 1 | 100 | $0.22 | [Buy](https://www.lcsc.com/product-detail/C137793.html) |
+| OLED board-side connection | Direct-solder included Waveshare cable | 1 | 1 | $0.00 | [Buy](https://www.waveshare.com/product/ai/0.91inch-oled-module.htm) |
+| Stabilizer kit | GDK kit: 4 x 2u + 1 x 6.25u | 5 | 1 | $4.90 | [Buy](https://omnitype.com/products/gdk-stabilizers) |
+| Protected LiPo battery | Adafruit 1578, 500 mAh | 1 | 1 | $7.95 | [Buy](https://www.adafruit.com/product/1578) |
+| OLED module | Waveshare 14657, SSD1306 128 x 32 | 1 | 1 | $6.99 | [Buy](https://www.waveshare.com/product/ai/0.91inch-oled-module.htm) |
+| Encoder knob | Adafruit 5093 | 1 | 1 | $0.75 | [Buy](https://www.adafruit.com/product/5093) |
+| USB data cable | Cvilux DH-20M50055 | 1 | 1 | $1.58 | [Buy](https://www.digikey.com/en/products/detail/cvilux-usa/DH-20M50055/13175849) |
+| Keycap set | XDA 120-key white/gray, English, plastic bag | 80 | 1 | $13.81 | [Buy](https://www.aliexpress.us/item/3256805881926304.html) |
+| Case inserts | M3 × D5.0 × L4.0, 100 pack | 10 | 100 | $6.31 | [Buy](https://www.aliexpress.us/item/2255800046543591.html) |
+| Case screws | M3 50pcs / 8mm ISO7380 button-head | 10 | 50 | $1.75 | [Buy](https://www.aliexpress.us/item/3256801950414714.html) |
+| Adhesive feet | Adafruit 550, pack of four approx 8 × 4 mm bumpers | 4 | 1 | $0.95 | [Buy](https://www.adafruit.com/product/550) |
+| Case print | Printed bottom, top and removable battery cover | 3 | 1 | Unquoted | [Buy](https://printlegion.hackclub.com/) |
+| Controller mounting pins | BOOMELE 2.54-1*40P / C2337 | 1 | 5 | $0.80 | [Buy](https://www.lcsc.com/product-detail/C2337.html) |
+| Battery retention/insulation | JSZ-007 polyimide tape, 30 mm x 33 m x 0.05 mm | 1 | 1 | $2.34 | [Buy](https://www.lcsc.com/product-detail/C6798411.html) |
+| PCB | 359.95 x 124.25 mm; 2 layers; 1.6 mm FR4; HASL | 1 | 5 | $26.65 | [Buy](https://jlcpcb.com/quote) |
+| Stabilizer shipping | Previously quoted US delivery | 1 | 1 | $6.89 | [Buy](https://omnitype.com/products/gdk-stabilizers) |
+| Other shipping | Supplier delivery and import charges | — | — | Unquoted | — |
+| Sales tax | Checkout amount | — | — | Unquoted | — |
+| Tools and consumables | Soldering tools, solder and flux already owned | 1 | 0 | $0.00 | — |
+
+The stabilizer kit includes its ten mounting screws. The OLED cable is included with the module. The printed battery cover is included in the three case parts. Soldering tools, solder and flux are already owned. Printing Legion support is subject to acceptance. Confirm the 120-key keycap set covers the layout and verify battery connector polarity before ordering.
