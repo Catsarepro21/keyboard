@@ -1,4 +1,5 @@
-# March 20: Initial concept and planning
+(No image so i excluded it)
+March 20: Initial concept and planning
 
 Started initial plan:
 - 60% Keyboard
