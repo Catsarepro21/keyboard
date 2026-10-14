@@ -2,6 +2,12 @@
 
 80-key Pico W keyboard with Bluetooth, a battery, USB charging/data, a volume encoder, OLED and USB-only RGB.
 
+![Keyboard case with integrated switch plate](journal/image2.png)
+
+![PCB routing around the Pico W and controls](journal/image.png)
+
+![OLED opening and encoder area in the case](journal/image-3.png)
+
 - [BOM and purchasing links](BOM.md) · [CSV](BOM.csv)
 - [Case STEP with integrated switch plate](cad/KEEB-case.step)
 - [Onshape source CAD and complete keyboard assembly](https://cad.onshape.com/documents/a273834a75c8cf83eaf3eccf/w/175ac2f63e3c24ffd6632dd1/e/d788e341cf0c23216b358283)
