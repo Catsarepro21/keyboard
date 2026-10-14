@@ -4,6 +4,8 @@
 
 **Parts and PCB: $106.13.** White keycaps and Fynmi stabilizers together showed free shipping in the signed-in AliExpress cart. Other shipping, tax and case printing are unquoted. These two prices were checked live; other prices remain estimates. Extra coupons and coins are not counted.
 
+Checked on 14 October 2026: quantities cover all 357 PCB footprints, and the CSV and Markdown costs agree. Public listings still show $0.20 per Gateron switch, $6.00 for Pico W without headers, and $7.95 for the battery. The switch seller advertises a 3% discount at 70+ switches; it is not deducted until confirmed at checkout. AliExpress prices retain the 13 October cart figures.
+
 | Part | Specification | Needed | Buy | Line cost | Link |
 |---|---|---:|---:|---:|---|
 | Wireless controller | Raspberry Pi SC0918 Pico W | 1 | 1 | $6.00 | [Buy](https://www.adafruit.com/product/5526) |
@@ -53,6 +55,6 @@
 
 Assembly: mount the Waveshare OLED with its unused PH connector toward the encoder; trim the included cable plug and solder by signal labels (J1: GND, 3V3, SCL, SDA). Secure it on the corner ledges with thin insulating tape. Mount Pico W using bare pins without the plastic header spacer. Confirm battery polarity before connection.
 
-Fit limits: keycap sizes are covered and assumed travel envelopes clear the case; seller tolerances and exact stabilizer mounting dimensions remain unpublished. OLED component heights and USB plug width/height were checked with assumed envelopes because the suppliers omit these dimensions. Print the supplied 14.05 mm MX switch-fit coupon before the full cover. Test one 4.4 mm insert pocket before installing all ten M3 x 4.5 x 5 mm inserts. The largest case part is 370.15 x 145.65 mm; confirm printing-service capacity and cost. Printing Legion acceptance, other shipping and tax remain unquoted.
+Fit limits: keycap sizes are covered and assumed travel envelopes clear the case; seller tolerances and exact stabilizer mounting dimensions remain unpublished. OLED component heights and USB plug width/height were checked with assumed envelopes because the suppliers omit these dimensions. Test a small section with a 14.05 mm MX cutout before printing the full cover. Test one 4.4 mm insert pocket before installing all ten M3 x 4.5 x 5 mm inserts. The largest case part is 370.15 x 145.65 mm; confirm printing-service capacity and cost. Printing Legion acceptance, other shipping and tax remain unquoted.
 
 Lower-cost OLED alternative: [HNX white 0.91-inch SSD1306, 1 pc](https://www.aliexpress.us/item/3256808732385444.html), $2.69. Seller specifies 3.3 V / 5 V, GND-VCC-SCL-SDA and a 38 x 12 mm board. Case support height/alignment and four hookup wires must be checked before substitution; it is not included in the total above. It would reduce merchandise by $4.30, before any wiring cost.

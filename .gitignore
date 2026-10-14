@@ -2,3 +2,4 @@
 *.kicad_lck
 *-backups/
 *.bak
+firmware/target/
