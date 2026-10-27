@@ -79,3 +79,7 @@ BOM:
 What I learned
 
 Helped a lot with large PCB design, wiring carefully, and just overall laying things out well.
+
+
+<img width="1747" height="845" alt="image" src="https://github.com/user-attachments/assets/4be69cfe-f495-4d31-901e-68bd50f96ff5" />
+
