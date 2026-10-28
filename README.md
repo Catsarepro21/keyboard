@@ -80,6 +80,9 @@ What I learned
 
 Helped a lot with large PCB design, wiring carefully, and just overall laying things out well.
 
-
+Renders(Blender+Onshape):
 <img width="1747" height="845" alt="image" src="https://github.com/user-attachments/assets/4be69cfe-f495-4d31-901e-68bd50f96ff5" />
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/8ebe7f8f-3f15-4006-89e0-a15983b52948" />
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/f2c2b7a4-9968-467b-b4fa-282e1cae0e0c" />
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/dec1838a-e0b9-4ffb-98f8-d8df41d63084" />
 
