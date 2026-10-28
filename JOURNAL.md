@@ -60,3 +60,5 @@ Went through and double checked all the PCB connections, checked the BOM, and ch
 # October 27th: Created renders and updated Readme
 So today I exported the keyboard OBJ file from onshape and imported it into blender, and created a lighting thing and camera to make some renders of it, and I added a couple renders of the keyboard to the readme, as well as added things like the BOM to the readme as well as more desciption.
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/e5a247ad-c05a-41d4-b2f7-ce60f790f49a" />
+
+**Total time spent: 45 Minutes**
